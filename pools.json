@@ -1,162 +1,52 @@
 [{
-	"poolName": "Bakery",
-	"url": "https://grlc-bakery.fun/",
+	"poolName": "Tuxtoke",
+	"url": "https://pool.tuxtoke.life",
 	"searchStrings": [
-		"/Bakery/"
+		"/Tuxtoke/"
 	]
 }, {
-	"poolName": "ButterPool",
-	"url": "https://butterpool.com/",
+	"poolName": "Nobspool",
+	"url": "http://nobspool.rocks/",
 	"searchStrings": [
-		"/ButterPool/"
+		"/Nobspool/",
+		"/Nobs/"
 	]
 }, {
-	"poolName": "FreshGRLC.net",
-	"url": "https://freshgrlc.net/",
+	"poolName": "Cryptorat",
+	"url": "http://cryptorat.pw/",
 	"searchStrings": [
-		"/FreshGRLC.net/"
+		"Cryptorat"
 	]
 }, {
-	"poolName": "Garlic Bread Pool",
-	"url": "https://www.garlicbread.xyz/",
+	"poolName": "Magpool",
+	"url": "http://tuxpool.mikemagss.com/",
 	"searchStrings": [
-		"/GBP/"
+		"/Magpool/"
 	]
 }, {
-	"poolName": "GarlicBois",
-	"url": "https://garlicbois.com/",
+	"poolName": "Spicypool",
+	"url": "http://spicypool.com/",
 	"searchStrings": [
-		"/GarlicBois/"
+		"/Spicypool/"
 	]
 	
 }, {
-	"poolName": "Garlic Factory",
-	"url": "https://garlic-factory.fun/",
+	"poolName": "Powerpool",
+	"url": "http://powerpool.money/",
 	"searchStrings": [
-		"/Garlic Factory/"
+		"/Powerpool/",
+		"/too much hashrate/"
 	]
 }, {
-        "poolName": "Garlic Machine",
-	"url": "http://garlicmachine.redirectme.net",
+        "poolName": "Roasted Garlic Pool",
+	"url": "http://roastedgarlicpool.fun/",
 	"searchStrings": [
-		"/Garlic Machine/"
-	]
-}, {
-        "poolName": "Garlicmine",
-	"url": "https://garlicmine.com/",
-	"searchStrings": [
-		"/Garlicmine/"
-	]
-}, {
-	"poolName": "GarlicoinPool.com",
-	"url": "https://garlicoinpool.com",
-	"searchStrings": [
-		"/GarlicoinPool.com/"
-	]
-}, {
-	"poolName": "Garlicpool.org",
-	"url": "https://www.garlicpool.org/",
-	"searchStrings": [
-		"/Garlicpool EU/",
-		"/Garlicpool US/"
-	]
-}, {
-	"poolName": "Garlicsoup.xyz",
-	"url": "https://pool.garlicsoup.xyz/",
-	"searchStrings": [
-		"/Garlicsoup.xyz/"
-	]
-}, {
-	"poolName": "GetGRLC",
-	"url": "https://getgrlc.com/",
-	"searchStrings": [
-		"/GetGRLC.com/"
-	]
-}, {
-	"poolName": "grlc.co",
-	"url": "http://grlc.co/",
-	"searchStrings": [
-		"/grlc.co/"
-	]
-}, {
-	"poolName": "Happy Garlic",
-	"url": "http://happy.garlicoin.fun/",
-	"searchStrings": [
-		"/HappyGarlic/"
-	]
-}, {
-	"poolName": "HRY-Mining.co",
-	"url": "http://hry-mining.co/",
-	"searchStrings": [
-		"/HRY-Mining.co/"
-	]
-}, {
-	"poolName": "MineGarlic",
-	"url": "https://minegarlic.com/",
-	"searchStrings": [
-		"/MineGarlic/"
-	]
-}, {
-	"poolName": "The RypeNation",
-	"url": "http://rypenation.club/",
-	"searchStrings": [
-		"/RypeNation/",
-		"/The RypeNation/",
-		"/RypeNation.club/",
-		"/RypeDub/"
-	]
-}, {
-	"poolName": "GarlicPress",
-	"url": "http://www.garlicpress.eu/",
-	"searchStrings": [
-		"/GarlicPress/"
-	]
-}, {
-	"poolName": "Spatula City",
-	"url": "http://garlic.spatula.city/",
-	"searchStrings": [
-		"/Spatula City/"
-	]
-}, {
-	"poolName": "Bread Pool",
-	"url": "http://breadpool.org/",
-	"searchStrings": [
-		"/Breadpool/"
-	]
-},{
-	"poolName": "grlc.suprnova.cc",
-	"url": "https://grlc.suprnova.cc/",
-	"searchStrings": [
-		"/grlc.suprnova.cc/"
+		"/Roasted Garlic Pool/"
 	]
 }, {
 	"poolName": "Anonymous Pool",
 	"url": "https://garlicinsight.com",
 	"searchStrings": [
 		"/nodeStratum/"
-	]
-}, {
-	"poolName": "Cage Coin Pool",
-	"url": "https://cagecoinpool.com/",
-	"searchStrings": [
-		"/cagecoinpool/"
-	]
-}, {
-	"poolName": "Golden Loaves",
-	"url": "http://goldenloaves.xyz",
-	"searchStrings": [
-		"/GoldenLoaves/"
-	]
-}, {
-	"poolName": "Garlic Legends",
-	"url": "http://garliclegends.ml/",
-	"searchStrings": [
-		"/Garlic Legends/"	
-	]
-}, {
-	"poolName": "GRLC Gang",
-	"url": "http://pool.grlc.life",
-	"searchStrings": [
-		"/GRLC Gang/"
 	]
 }]

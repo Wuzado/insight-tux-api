@@ -1,21 +1,21 @@
 {
-  "name": "insight-grlc-api",
-  "description": "A Garlicoin blockchain REST and web socket API service for Garlicore Node.",
+  "name": "insight-tux-api",
+  "description": "A Tuxcoin blockchain REST and web socket API service for Tuxcore Node.",
   "version": "0.4.15",
-  "repository": "git://github.com/garlicoin-project/insight-grlc-api.git",
+  "repository": "git://github.com/Wuzado/insight-tux-api.git",
   "bugs": {
-    "url": "https://github.com/garlicoin-project/insight-grlc-api/issues"
+    "url": "https://github.com/Wuzado/insight-tux-api/issues"
   },
-  "homepage": "https://github.com/garlicoin-project/insight-grlc-api",
+  "homepage": "https://github.com/Wuzado/insight-tux-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "garliccoin api",
+    "tuxcoin api",
     "blockchain api",
     "json",
-    "litecore"
+    "tuxcore"
   ],
   "engines": {
     "node": ">=0.12.0"
