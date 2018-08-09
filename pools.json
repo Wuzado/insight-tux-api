@@ -4,7 +4,15 @@
 	"searchStrings": [
 		"/Tuxtoke/"
 	]
-}, {
+},
+ {
+	"poolName": "Tuxtoke-YIIMP",
+	"url": "https://yiimp.tuxtoke.life",
+	"searchStrings": [
+		"/Tuxtoke-YIIMP/"
+	]
+},
+ {
 	"poolName": "Nobspool",
 	"url": "http://nobspool.rocks/",
 	"searchStrings": [
