@@ -1,7 +1,7 @@
 {
   "name": "insight-tux-api",
   "description": "A Tuxcoin blockchain REST and web socket API service for Tuxcore Node.",
-  "version": "0.4.17",
+  "version": "0.4.18",
   "repository": "git://github.com/Wuzado/insight-tux-api.git",
   "bugs": {
     "url": "https://github.com/Wuzado/insight-tux-api/issues"
