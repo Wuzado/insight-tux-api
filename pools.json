@@ -16,77 +16,87 @@
 	"poolName": "Nobspool",
 	"url": "http://nobspool.rocks/",
 	"searchStrings": [
-		"/Nobspool/",
+		"/Nobspool/"
 	]
-}, {
+}, 
+ {
 	"poolName": "Cryptorat",
 	"url": "http://cryptorat.pw/",
 	"searchStrings": [
 		"/Cryptorat/"
 	]
-}, {
+}, 
+ {
 	"poolName": "Magpool",
 	"url": "http://tuxpool.mikemagss.com/",
 	"searchStrings": [
 		"/Magpool/"
 	]
-}, {
+}, 
+ {
 	"poolName": "Spicypool",
 	"url": "http://spicypool.com/",
 	"searchStrings": [
 		"/Spicypool/"
 	]
-	
-}, {
+}, 
+ {
 	"poolName": "Powerpool",
 	"url": "http://powerpool.money/",
 	"searchStrings": [
-		"/Powerpool/",
-		"/toomuchhashrate/"
+		"/Powerpool/"
 	]
-}, {
+}, 
+ {
     "poolName": "Roasted Garlic Pool",
 	"url": "http://roastedgarlicpool.fun/",
 	"searchStrings": [
 		"/RoastedGarlicPool/"
 	]
-}, {
+}, 
+ {
     "poolName": "Icemining",
 	"url": "https://icemining.ca/",
 	"searchStrings": [
 		"/Icemining/"
 	]
-},  {
+},  
+ {
     "poolName": "Minermore",
 	"url": "https://minermore.com/",
 	"searchStrings": [
 		"/Minermore/"
 	]
-},  {
+},  
+ {
     "poolName": "cvmpool",
 	"url": "https://cvmpool.pw/",
 	"searchStrings": [
 		"/cvmpool/"
 	]
-},  {
+},  
+ {
     "poolName": "CloudCity",
 	"url": "http://cloudcityminer.com/",
 	"searchStrings": [
 		"/CloudCity/"
 	]
-},  {
+},  
+ {
     "poolName": "Zergpool",
 	"url": "http://zergpool.com/",
 	"searchStrings": [
 		"/Zergpool/"
 	]
-},  {
+},  
+ {
     "poolName": "Direpool",
 	"url": "https://direpool.com/",
 	"searchStrings": [
 		"/Direpool/"
 	]
-},  {
+},  
+ {
 	"poolName": "Anonymous Pool",
 	"url": "http://206.189.196.145:3001/",
 	"searchStrings": [
