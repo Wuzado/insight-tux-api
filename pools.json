@@ -17,13 +17,12 @@
 	"url": "http://nobspool.rocks/",
 	"searchStrings": [
 		"/Nobspool/",
-		"/Nobs/"
 	]
 }, {
 	"poolName": "Cryptorat",
 	"url": "http://cryptorat.pw/",
 	"searchStrings": [
-		"Cryptorat"
+		"/Cryptorat/"
 	]
 }, {
 	"poolName": "Magpool",
@@ -43,17 +42,53 @@
 	"url": "http://powerpool.money/",
 	"searchStrings": [
 		"/Powerpool/",
-		"/too much hashrate/"
+		"/toomuchhashrate/"
 	]
 }, {
-        "poolName": "Roasted Garlic Pool",
+    "poolName": "Roasted Garlic Pool",
 	"url": "http://roastedgarlicpool.fun/",
 	"searchStrings": [
-		"/Roasted Garlic Pool/"
+		"/RoastedGarlicPool/"
 	]
 }, {
+    "poolName": "Icemining",
+	"url": "https://icemining.ca/",
+	"searchStrings": [
+		"/Icemining/"
+	]
+},  {
+    "poolName": "Minermore",
+	"url": "https://minermore.com/",
+	"searchStrings": [
+		"/Minermore/"
+	]
+},  {
+    "poolName": "cvmpool",
+	"url": "https://cvmpool.pw/",
+	"searchStrings": [
+		"/cvmpool/"
+	]
+},  {
+    "poolName": "CloudCity",
+	"url": "http://cloudcityminer.com/",
+	"searchStrings": [
+		"/CloudCity/"
+	]
+},  {
+    "poolName": "Zergpool",
+	"url": "http://zergpool.com/",
+	"searchStrings": [
+		"/Zergpool/"
+	]
+},  {
+    "poolName": "Direpool",
+	"url": "https://direpool.com/",
+	"searchStrings": [
+		"/Direpool/"
+	]
+},  {
 	"poolName": "Anonymous Pool",
-	"url": "https://garlicinsight.com",
+	"url": "http://206.189.196.145:3001/",
 	"searchStrings": [
 		"/nodeStratum/"
 	]
